@@ -1,0 +1,31 @@
+id_respuesta,rol,edad,plataforma_principal,frecuencia_uso,satisfaccion,comentario,frecuencia_uso_ord
+1,Estudiante,18,Google Classroom,Alta,1,Muy útil,3
+2,Docente,19,Moodle,Media,2,Aceptable,2
+3,Estudiante,20,WhatsApp,Baja,3,Confuso,1
+4,Docente,25,Google Classroom,Alta,4,Sin comentario,3
+5,Estudiante,22,Moodle,Media,5,Buen apoyo,2
+6,Docente,40,WhatsApp,Baja,1,Muy útil,1
+7,Estudiante,18,Google Classroom,Alta,2,Aceptable,3
+8,Docente,29,Moodle,Media,3,Confuso,2
+9,Estudiante,20,WhatsApp,Baja,4,Sin comentario,1
+10,Docente,31,Google Classroom,Alta,5,Buen apoyo,3
+10,Docente,31,Google Classroom,Alta,5,Buen apoyo,3
+12,Docente,40,WhatsApp,Baja,2,Aceptable,1
+13,Estudiante,18,Google Classroom,Alta,3,Confuso,3
+14,Docente,49,Moodle,Media,4,Sin comentario,2
+15,Estudiante,20,WhatsApp,Baja,5,Buen apoyo,1
+16,Docente,66,Google Classroom,Alta,1,Muy útil,3
+17,Estudiante,22,Moodle,Media,2,Aceptable,2
+18,Docente,39,WhatsApp,Baja,3,Confuso,1
+19,Estudiante,18,Google Classroom,Alta,4,Sin comentario,3
+20,Docente,40,Moodle,Media,5,Buen apoyo,2
+21,Estudiante,20,WhatsApp,Baja,1,Muy útil,1
+22,Docente,51,Google Classroom,Alta,2,Aceptable,3
+23,Estudiante,22,Moodle,Media,3,Confuso,2
+24,Docente,33,WhatsApp,Baja,4,Sin comentario,1
+25,Estudiante,18,Google Classroom,Alta,5,Buen apoyo,3
+26,Docente,59,Moodle,Media,1,Muy útil,2
+27,Estudiante,20,WhatsApp,Baja,2,Aceptable,1
+28,Docente,21,Google Classroom,Alta,3,Confuso,3
+29,Estudiante,22,Moodle,Media,4,Sin comentario,2
+30,Docente,52,WhatsApp,Baja,5,Buen apoyo,1

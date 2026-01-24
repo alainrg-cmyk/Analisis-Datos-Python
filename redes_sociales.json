@@ -1,0 +1,143 @@
+[
+  {
+    "id_publicacion": 1,
+    "plataforma": "Facebook",
+    "fecha": "2024-03-10",
+    "comentarios": [
+      "La clase fue muy clara",
+      "Me gustó el ejemplo",
+      "El tema estuvo interesante"
+    ]
+  },
+  {
+    "id_publicacion": 2,
+    "plataforma": "X",
+    "fecha": "2024-03-11",
+    "comentarios": [
+      "Mucho contenido en poco tiempo",
+      "Necesitamos más ejemplos",
+      "Buen material pero rápido"
+    ]
+  },
+  {
+    "id_publicacion": 3,
+    "plataforma": "Instagram",
+    "fecha": "2024-03-12",
+    "comentarios": [
+      "Excelente explicación",
+      "Muy útil para entender Python",
+      "Me ayudó bastante"
+    ]
+  },
+  {
+    "id_publicacion": 4,
+    "plataforma": "Facebook",
+    "fecha": "2024-03-01",
+    "comentarios": [
+      "La clase fue muy clara",
+      "Me gustaron los ejemplos",
+      "Buen material"
+    ]
+  },
+  {
+    "id_publicacion": 5,
+    "plataforma": "X",
+    "fecha": "2024-03-02",
+    "comentarios": [
+      "Mucho contenido en poco tiempo",
+      "Tema interesante",
+      "Podría explicarse con más calma"
+    ]
+  },
+  {
+    "id_publicacion": 6,
+    "plataforma": "Instagram",
+    "fecha": "2024-03-03",
+    "comentarios": [
+      "Excelente explicación",
+      "Muy útil para entender Python",
+      "Me ayudó bastante"
+    ]
+  },
+  {
+    "id_publicacion": 7,
+    "plataforma": "Facebook",
+    "fecha": "2024-03-04",
+    "comentarios": [
+      "El ejercicio estuvo complicado",
+      "Aprendí cosas nuevas",
+      "Buen apoyo del profesor"
+    ]
+  },
+  {
+    "id_publicacion": 8,
+    "plataforma": "Instagram",
+    "fecha": "2024-03-05",
+    "comentarios": [
+      "Muy visual la explicación",
+      "Me gustó la gráfica",
+      "Quedó claro el tema"
+    ]
+  },
+  {
+    "id_publicacion": 9,
+    "plataforma": "X",
+    "fecha": "2024-03-06",
+    "comentarios": [
+      "Faltaron ejemplos prácticos",
+      "Buen contenido teórico",
+      "Interesante el enfoque"
+    ]
+  },
+  {
+    "id_publicacion": 10,
+    "plataforma": "Facebook",
+    "fecha": "2024-03-07",
+    "comentarios": [
+      "La actividad fue útil",
+      "Ayudó a entender mejor los datos",
+      "Buen ejercicio"
+    ]
+  },
+  {
+    "id_publicacion": 11,
+    "plataforma": "Instagram",
+    "fecha": "2024-03-08",
+    "comentarios": [
+      "Me gustó trabajar con datos reales",
+      "Muy claro el ejemplo",
+      "Aprendí bastante"
+    ]
+  },
+  {
+    "id_publicacion": 12,
+    "plataforma": "X",
+    "fecha": "2024-03-09",
+    "comentarios": [
+      "Contenido relevante",
+      "Buen ritmo de la clase",
+      "Fácil de seguir"
+    ]
+  },
+  {
+    "id_publicacion": 13,
+    "plataforma": "Facebook",
+    "fecha": "2024-03-10",
+    "comentarios": [
+      "La nube de palabras fue interesante",
+      "Me ayudó a visualizar opiniones",
+      "Buen cierre del tema"
+    ]
+  },
+  {
+    "id_publicacion": 14,
+    "plataforma": "X",
+    "fecha": "2024-03-10",
+    "comentarios": [
+      "La nube de palabras fue interesante",
+      "Me ayudó a visualizar opiniones",
+      "No me gustó el tema"
+    ]
+  }
+]
+
